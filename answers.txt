@@ -9,3 +9,7 @@ Answer: Data Science can be applied to healthcare. It can be used to analyze man
 Q3: What is the difference between merging and rebasing?
 
 Answer: Merging lets you merge git branches which creates a branch in the history, while rebasing takes all the changes from one branch to another, making the history not look like branches, but looks linear instead.
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: I hope to become better at looking at large datasets, and I also want to improve my Python skills with this course.
