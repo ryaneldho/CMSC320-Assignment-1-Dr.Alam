@@ -1,3 +1,7 @@
 Q1: Why might be consider using git?
 
 Answer: Git is useful for version control. If we have multiple versions of a project, git allows us to go back to other versions as we need.
+
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: Data Science can be applied to healthcare. It can be used to analyze many different diseases, because there are so many datasets of diseases.
